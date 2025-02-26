@@ -1,0 +1,1 @@
+import{t as s,a as c}from"../chunks/BmBhIYlP.js";import{u as r,s as p,t as n,c as i,r as l,g as m}from"../chunks/D1m6sw4t.js";import{d as u,s as _}from"../chunks/ZL0qWeaA.js";var f=(e,t)=>r(t),d=s("<button> </button>");function b(e){let t=p(0);var a=d();a.__click=[f,t];var o=i(a);l(a),n(()=>_(o,`clicks: ${m(t)??""}`)),c(e,a)}u(["click"]);export{b as component};
